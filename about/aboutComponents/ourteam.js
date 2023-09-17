@@ -8,7 +8,6 @@ export const ourTeamExport = (
   const ourTeamDiv = document.createElement("div");
   ourTeamDiv.style.width = "30%";
   ourTeamDiv.style.marginLeft = "12%";
-  ourTeamDiv.style.border = '1px solid'
   ourTeamDiv.style.marginTop = "30px";
 
   const ourTeamImg = document.createElement("img");
